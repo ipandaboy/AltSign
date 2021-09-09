@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "AltSign"
-  spec.version      = "0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "Open source iOS code-signing framework."
   spec.description  = "iOS framework to manage Apple developer accounts and resign apps."
   spec.homepage     = "https://github.com/rileytestut/altsign"
